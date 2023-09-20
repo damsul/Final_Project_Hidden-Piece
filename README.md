@@ -1,6 +1,6 @@
 # HIDDEN PIECE
 
-<img src="https://github.com/likelion-backend-5th/Final_Project_6team/assets/130052050/d453dc29-341f-404b-a2ea-4aaaae619181" width=300>
+<img src="https://github.com/damsul/Final_Project_Hidden-Piece/assets/103403735/58b51174-adbf-4c74-abf0-5e7486c271a4" width=300>
 
 ## HIDDEN PIECE Web Page v1.0
 
